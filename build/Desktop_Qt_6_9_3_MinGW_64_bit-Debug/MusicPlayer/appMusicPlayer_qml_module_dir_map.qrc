@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/MusicPlayer">F:/MusicPlayer/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/MusicPlayer</file>
+
+  </qresource>
+</RCC>

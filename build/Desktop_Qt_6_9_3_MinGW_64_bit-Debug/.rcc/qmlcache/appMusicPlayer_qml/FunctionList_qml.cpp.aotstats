@@ -1,0 +1,692 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": false,
+                        "column": 26,
+                        "durationMicroseconds": 240,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "myText",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 5,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "function without return type annotation returns (component in F:/MusicPlayer/qml/FunctionList.qml)::order with type int. This may prevent proper compilation to Cpp.",
+                        "functionName": "getorder",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 5,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "function without return type annotation returns QJSValue::[] with type QJSValue. This may prevent proper compilation to Cpp.",
+                        "functionName": "getfileurl",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 157,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 9
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 28,
+                        "durationMicroseconds": 845,
+                        "errorMessage": "Cannot generate efficient code for internal conversion into unsupported wrapper type.",
+                        "functionName": "onCompleted",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 21,
+                        "durationMicroseconds": 146,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 45,
+                        "durationMicroseconds": 740,
+                        "errorMessage": "",
+                        "functionName": "preferredHeight",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 32,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "Cannot access value for name myText",
+                        "functionName": "model",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 41,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "",
+                        "functionName": "boundsBehavior",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 36,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot access value for name listView",
+                        "functionName": "width",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 37,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 200,
+                        "errorMessage": "",
+                        "functionName": "scale",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 79,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "",
+                        "functionName": "type",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 43,
+                        "durationMicroseconds": 92,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 41,
+                        "durationMicroseconds": 99,
+                        "errorMessage": "Cannot access value for name listView",
+                        "functionName": "source",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 47,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 44,
+                        "durationMicroseconds": 487,
+                        "errorMessage": "Cannot access value for name listView",
+                        "functionName": "onClicked",
+                        "line": 75
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 46,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 50,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "Cannot access value for name myText",
+                        "functionName": "onDoubleClicked",
+                        "line": 82
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 47,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 74
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 111,
+                        "errorMessage": "",
+                        "functionName": "scale",
+                        "line": 95
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 44,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 91
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 45,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "",
+                        "functionName": "preferredHeight",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 71,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "",
+                        "functionName": "type",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 36,
+                        "durationMicroseconds": 150,
+                        "errorMessage": "Cannot access value for name myText",
+                        "functionName": "onClicked",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 38,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 107
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 37,
+                        "durationMicroseconds": 420,
+                        "errorMessage": "Cannot access value for name myText",
+                        "functionName": "onAccepted",
+                        "line": 117
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "",
+                        "functionName": "scale",
+                        "line": 136
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 103,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 44,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 45,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "",
+                        "functionName": "preferredHeight",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 71,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "",
+                        "functionName": "type",
+                        "line": 138
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 143
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 38,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 36,
+                        "durationMicroseconds": 427,
+                        "errorMessage": "Cannot access value for name myText",
+                        "functionName": "onClicked",
+                        "line": 151
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 96,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 21,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 173
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 29,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 144,
+                        "errorMessage": "",
+                        "functionName": "scale",
+                        "line": 183
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 44,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 179
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 45,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "",
+                        "functionName": "preferredHeight",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 71,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "",
+                        "functionName": "type",
+                        "line": 185
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 92,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 191
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 189
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 38,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 199
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 702,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 200
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 125,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 197
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 29,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 217
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 105,
+                        "errorMessage": "",
+                        "functionName": "scale",
+                        "line": 219
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 44,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 215
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 45,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "",
+                        "functionName": "preferredHeight",
+                        "line": 216
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 71,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "",
+                        "functionName": "type",
+                        "line": 221
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 227
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 40,
+                        "durationMicroseconds": 274,
+                        "errorMessage": "method setrate cannot be resolved.",
+                        "functionName": "onTextChanged",
+                        "line": 228
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 43,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 226
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 74,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 234
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 43,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "",
+                        "functionName": "baseline",
+                        "line": 235
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 38,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 242
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 36,
+                        "durationMicroseconds": 88,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: slider",
+                        "functionName": "onClicked",
+                        "line": 243
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 240
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 32,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"value\".",
+                        "functionName": "value",
+                        "line": 259
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 35,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"moved\".",
+                        "functionName": "onMoved",
+                        "line": 260
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 39,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"left\".",
+                        "functionName": "left",
+                        "line": 253
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 49,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"verticalCenter\".",
+                        "functionName": "verticalCenter",
+                        "line": 254
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 32,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "Cannot access value for name slider",
+                        "functionName": "x",
+                        "line": 263
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 32,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "Cannot access value for name slider",
+                        "functionName": "y",
+                        "line": 264
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 36,
+                        "durationMicroseconds": 15,
+                        "errorMessage": "Cannot access value for name slider",
+                        "functionName": "width",
+                        "line": 265
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 40,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Cannot access value for name slider",
+                        "functionName": "width",
+                        "line": 270
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 41,
+                        "durationMicroseconds": 6,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "height",
+                        "line": 271
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 46,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "Cannot access value for name Qt",
+                        "functionName": "cursorShape",
+                        "line": 278
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 50,
+                        "durationMicroseconds": 88,
+                        "errorMessage": "Cannot access value for name Qt",
+                        "functionName": "acceptedButtons",
+                        "line": 279
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 47,
+                        "durationMicroseconds": 5,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "fill",
+                        "line": 276
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 91,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "Cannot access value for name Easing",
+                        "functionName": "type",
+                        "line": 282
+                    }
+                ],
+                "filePath": "F:/MusicPlayer/qml/FunctionList.qml"
+            }
+        ],
+        "moduleId": "MusicPlayer(appMusicPlayer)"
+    }
+]

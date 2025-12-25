@@ -1,0 +1,38 @@
+{
+    "classes": [
+        {
+            "className": "SearchModel",
+            "lineNumber": 28,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newData",
+                            "type": "QList<datalist>"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "setListData",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "clearData",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "SearchModel",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "searchmodel.h",
+    "outputRevision": 69
+}

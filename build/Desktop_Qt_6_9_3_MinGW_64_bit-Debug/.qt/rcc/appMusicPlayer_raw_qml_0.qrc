@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="/qt/qml/MusicPlayer/">
+    <file alias="Main.qml">F:/MusicPlayer/Main.qml</file>
+    <file alias="qml/MusicList.qml">F:/MusicPlayer/qml/MusicList.qml</file>
+    <file alias="qml/FunctionList.qml">F:/MusicPlayer/qml/FunctionList.qml</file>
+    <file alias="qml/MediaButton.qml">F:/MusicPlayer/qml/MediaButton.qml</file>
+    <file alias="qml/MusicLrc.qml">F:/MusicPlayer/qml/MusicLrc.qml</file>
+    <file alias="qml/SearchMusic.qml">F:/MusicPlayer/qml/SearchMusic.qml</file>
+    <file alias="qml/image/new.png">F:/MusicPlayer/qml/image/new.png</file>
+    <file alias="qml/image/last.png">F:/MusicPlayer/qml/image/last.png</file>
+    <file alias="qml/image/next.png">F:/MusicPlayer/qml/image/next.png</file>
+    <file alias="qml/image/play.png">F:/MusicPlayer/qml/image/play.png</file>
+    <file alias="qml/image/stop.png">F:/MusicPlayer/qml/image/stop.png</file>
+    <file alias="qml/image/circle.png">F:/MusicPlayer/qml/image/circle.png</file>
+    <file alias="qml/image/order.png">F:/MusicPlayer/qml/image/order.png</file>
+    <file alias="qml/image/random.png">F:/MusicPlayer/qml/image/random.png</file>
+    <file alias="qml/image/file.png">F:/MusicPlayer/qml/image/file.png</file>
+    <file alias="qml/image/openfile.png">F:/MusicPlayer/qml/image/openfile.png</file>
+    <file alias="qml/image/dele.png">F:/MusicPlayer/qml/image/dele.png</file>
+    <file alias="qml/image/search.png">F:/MusicPlayer/qml/image/search.png</file>
+  </qresource>
+</RCC>
+

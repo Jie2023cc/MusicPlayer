@@ -1,0 +1,172 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "addItem",
+                        "line": 14
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 5,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "function without return type annotation returns QQuickFolderListModel::count with type int. This may prevent proper compilation to Cpp.",
+                        "functionName": "getcount",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "hello",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "hellos",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 147,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 232,
+                        "errorMessage": "",
+                        "functionName": "nameFilters",
+                        "line": 37
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 104,
+                        "errorMessage": "",
+                        "functionName": "sortField",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "",
+                        "functionName": "model",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 43
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 20,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "Cannot access value for name musicList",
+                        "functionName": "width",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 21,
+                        "durationMicroseconds": 119,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 123,
+                        "errorMessage": "",
+                        "functionName": "scale",
+                        "line": 51
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 20,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "color",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 63,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "",
+                        "functionName": "type",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 30,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 28,
+                        "durationMicroseconds": 637,
+                        "errorMessage": "Cannot access value for name folderListModel",
+                        "functionName": "onClicked",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 27,
+                        "durationMicroseconds": 178,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "text",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 27,
+                        "durationMicroseconds": 180,
+                        "errorMessage": "Cannot access value for name fileName",
+                        "functionName": "text",
+                        "line": 80
+                    }
+                ],
+                "filePath": "F:/MusicPlayer/qml/MusicList.qml"
+            }
+        ],
+        "moduleId": "MusicPlayer(appMusicPlayer)"
+    }
+]

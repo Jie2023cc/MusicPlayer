@@ -1,0 +1,171 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                }
+            ],
+            "className": "Search",
+            "lineNumber": 15,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "keyword",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 3,
+                    "name": "getkeyword",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "index",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 4,
+                    "name": "geturl",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "index",
+                            "type": "int"
+                        },
+                        {
+                            "name": "downurl",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "downfile",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 5,
+                    "name": "downmusic",
+                    "returnType": "QString"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "index",
+                            "type": "int"
+                        },
+                        {
+                            "name": "filename",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 6,
+                    "name": "getlyrics",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "downurl",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "downfile",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 7,
+                    "name": "getjpg",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": true,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "model",
+                    "read": "model",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "SearchModel*",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "Search",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "playurl",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "path",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "success",
+                            "type": "bool"
+                        },
+                        {
+                            "name": "error",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "downloadFinished",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "path",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "success",
+                            "type": "bool"
+                        },
+                        {
+                            "name": "error",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 2,
+                    "name": "lyricSaved",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "search.h",
+    "outputRevision": 69
+}

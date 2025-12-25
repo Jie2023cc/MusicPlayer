@@ -1,0 +1,660 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": false,
+                        "column": 26,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: root",
+                        "functionName": "onLyricsTimeChanged",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 31,
+                        "durationMicroseconds": 914,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: slider",
+                        "functionName": "onMediaStatusChanged",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 26,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: root",
+                        "functionName": "onSourceChanged",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 27,
+                        "durationMicroseconds": 28,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: root",
+                        "functionName": "onPositionChanged",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 198,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 66
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 48,
+                        "durationMicroseconds": 113,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 83
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 48,
+                        "durationMicroseconds": 118,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 39,
+                        "durationMicroseconds": 15,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: root",
+                        "functionName": "playindex",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 41,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "",
+                        "functionName": "preferredHeight",
+                        "line": 103
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 113
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 114
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "",
+                        "functionName": "x",
+                        "line": 119
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 91,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 120
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 121
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 21,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 118,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 129
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 24,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 25,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 126
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 33,
+                        "durationMicroseconds": 103,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 127
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 50,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 135
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 30,
+                        "durationMicroseconds": 610,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "onPaint",
+                        "line": 138
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 136
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 33,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: root",
+                        "functionName": "source",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 42,
+                        "durationMicroseconds": 187,
+                        "errorMessage": "",
+                        "functionName": "onStatusChanged",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 44,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 152
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 29,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "",
+                        "functionName": "source",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 156
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 94,
+                        "errorMessage": "",
+                        "functionName": "loops",
+                        "line": 161
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "",
+                        "functionName": "loops",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "",
+                        "functionName": "loops",
+                        "line": 174
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 180
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 40,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 184
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 33,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: root",
+                        "functionName": "onDownload",
+                        "line": 188
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 33,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "",
+                        "functionName": "onDownload",
+                        "line": 188
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 29,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: root",
+                        "functionName": "onDown",
+                        "line": 193
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 29,
+                        "durationMicroseconds": 25,
+                        "errorMessage": "",
+                        "functionName": "onDown",
+                        "line": 193
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 86,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 207
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 204
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 34,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 205
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 211
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 52,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 214
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 486,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 219
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 51,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 218
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 33,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"to\".",
+                        "functionName": "to",
+                        "line": 227
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 36,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"value\".",
+                        "functionName": "value",
+                        "line": 228
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 39,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"moved\".",
+                        "functionName": "onMoved",
+                        "line": 229
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 45,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"valueChanged\".",
+                        "functionName": "onValueChanged",
+                        "line": 245
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 36,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot access value for name slider",
+                        "functionName": "x",
+                        "line": 231
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 36,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "Cannot access value for name slider",
+                        "functionName": "y",
+                        "line": 232
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 40,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name slider",
+                        "functionName": "color",
+                        "line": 236
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 50,
+                        "durationMicroseconds": 141,
+                        "errorMessage": "Cannot access value for name Qt",
+                        "functionName": "cursorShape",
+                        "line": 241
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 54,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "Cannot access value for name Qt",
+                        "functionName": "acceptedButtons",
+                        "line": 242
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 51,
+                        "durationMicroseconds": 6,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "fill",
+                        "line": 239
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 52,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 253
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 376,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 259
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 51,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 258
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 266
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 29,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 267
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 37,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 265
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 39,
+                        "durationMicroseconds": 16,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: root",
+                        "functionName": "onUpdateindex",
+                        "line": 271
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "",
+                        "functionName": "onUpdateindex",
+                        "line": 271
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 280
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 9,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onSetlist",
+                        "line": 281
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 9,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onSetrate",
+                        "line": 284
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 289
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 9,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "onPlayMusic",
+                        "line": 290
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 17,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "",
+                        "functionName": "target",
+                        "line": 301
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 9,
+                        "durationMicroseconds": 329,
+                        "errorMessage": "",
+                        "functionName": "onPlayButton",
+                        "line": 302
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 9,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: root",
+                        "functionName": "onLastmusic",
+                        "line": 312
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 9,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: root",
+                        "functionName": "onNextmusic",
+                        "line": 316
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 100,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 321
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 21,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: root",
+                        "functionName": "onActivated",
+                        "line": 329
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 21,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "",
+                        "functionName": "onActivated",
+                        "line": 329
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 29,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "",
+                        "functionName": "onTriggered",
+                        "line": 339
+                    }
+                ],
+                "filePath": "F:/MusicPlayer/Main.qml"
+            }
+        ],
+        "moduleId": "MusicPlayer(appMusicPlayer)"
+    }
+]

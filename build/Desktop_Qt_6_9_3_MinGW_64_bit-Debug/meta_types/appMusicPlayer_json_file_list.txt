@@ -1,0 +1,5 @@
+F:/MusicPlayer/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/appMusicPlayer_autogen/include/../SVODSI3R2M/moc_getlyrics.cpp.json
+F:/MusicPlayer/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/appMusicPlayer_autogen/include/../SVODSI3R2M/moc_lyricsmodel.cpp.json
+F:/MusicPlayer/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/appMusicPlayer_autogen/include/../SVODSI3R2M/moc_nodemanager.cpp.json
+F:/MusicPlayer/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/appMusicPlayer_autogen/include/../SVODSI3R2M/moc_search.cpp.json
+F:/MusicPlayer/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/appMusicPlayer_autogen/include/../SVODSI3R2M/moc_searchmodel.cpp.json

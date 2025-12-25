@@ -1,0 +1,260 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 5,
+                        "durationMicroseconds": 203,
+                        "errorMessage": "",
+                        "functionName": "mediaPlaying",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 5,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "",
+                        "functionName": "mediaStop",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 5
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 21,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 147,
+                        "errorMessage": "",
+                        "functionName": "scale",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 63,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "",
+                        "functionName": "type",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 30,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 28,
+                        "durationMicroseconds": 232,
+                        "errorMessage": "method lastmusic cannot be resolved.",
+                        "functionName": "onClicked",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 45,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 21,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 118,
+                        "errorMessage": "",
+                        "functionName": "scale",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 63,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "",
+                        "functionName": "type",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 28,
+                        "durationMicroseconds": 183,
+                        "errorMessage": "method playButton cannot be resolved.",
+                        "functionName": "onClicked",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 30,
+                        "durationMicroseconds": 63,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 73
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 21,
+                        "durationMicroseconds": 48,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 109,
+                        "errorMessage": "",
+                        "functionName": "scale",
+                        "line": 86
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 63,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "",
+                        "functionName": "type",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 27,
+                        "durationMicroseconds": 44,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 92
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 34,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 91
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 30,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 28,
+                        "durationMicroseconds": 177,
+                        "errorMessage": "method nextmusic cannot be resolved.",
+                        "functionName": "onClicked",
+                        "line": 101
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 98
+                    }
+                ],
+                "filePath": "F:/MusicPlayer/qml/MediaButton.qml"
+            }
+        ],
+        "moduleId": "MusicPlayer(appMusicPlayer)"
+    }
+]

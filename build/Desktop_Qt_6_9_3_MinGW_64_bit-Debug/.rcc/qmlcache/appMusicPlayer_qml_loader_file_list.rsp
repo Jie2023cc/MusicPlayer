@@ -1,0 +1,12 @@
+--resource
+F:/MusicPlayer/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.qt/rcc/qmake_MusicPlayer.qrc
+--resource
+F:/MusicPlayer/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.qt/rcc/appMusicPlayer_raw_qml_0.qrc
+--resource
+F:/MusicPlayer/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/.qt/rcc/appMusicPlayer_raw_qml_0_extra_qmldirs.qrc
+/qt/qml/MusicPlayer/Main.qml
+/qt/qml/MusicPlayer/qml/MusicList.qml
+/qt/qml/MusicPlayer/qml/FunctionList.qml
+/qt/qml/MusicPlayer/qml/MediaButton.qml
+/qt/qml/MusicPlayer/qml/MusicLrc.qml
+/qt/qml/MusicPlayer/qml/SearchMusic.qml

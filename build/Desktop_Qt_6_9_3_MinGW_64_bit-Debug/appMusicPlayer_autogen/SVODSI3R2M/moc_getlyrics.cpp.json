@@ -1,0 +1,69 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                }
+            ],
+            "className": "GetLyrics",
+            "lineNumber": 11,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "url",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "getUrl",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "time",
+                            "type": "qint64"
+                        },
+                        {
+                            "name": "index",
+                            "type": "qint64"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "returnIndex",
+                    "returnType": "qint64"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": true,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "musicModel",
+                    "read": "musicModel",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "LyricsModel*",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "GetLyrics",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "getlyrics.h",
+    "outputRevision": 69
+}

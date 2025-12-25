@@ -1,0 +1,50 @@
+{
+    "classes": [
+        {
+            "className": "LyricsModel",
+            "lineNumber": 7,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newData",
+                            "type": "QMap<qint64,QStringList>"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "setMusicData",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newData",
+                            "type": "QList<qint64>"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "setKeys",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "clearData",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "LyricsModel",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "lyricsmodel.h",
+    "outputRevision": 69
+}

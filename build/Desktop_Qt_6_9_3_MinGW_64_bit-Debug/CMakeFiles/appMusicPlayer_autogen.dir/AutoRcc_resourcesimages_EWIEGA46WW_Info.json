@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "F:/MusicPlayer/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/appMusicPlayer_autogen",
+	"CMAKE_BINARY_DIR" : "F:/MusicPlayer/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "F:/MusicPlayer/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "F:/MusicPlayer",
+	"CMAKE_SOURCE_DIR" : "F:/MusicPlayer",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "F:/MusicPlayer/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/appMusicPlayer_autogen/include",
+	"INPUTS" : [ "F:/MusicPlayer/ui.png" ],
+	"LOCK_FILE" : "F:/MusicPlayer/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/appMusicPlayer_autogen.dir/AutoRcc_resourcesimages_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resourcesimages" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resourcesimages.cpp",
+	"RCC_EXECUTABLE" : "D:/app/qt/qt/6.9.3/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "F:/MusicPlayer/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/appMusicPlayer_autogen.dir/AutoRcc_resourcesimages_EWIEGA46WW_Used.txt",
+	"SOURCE" : "F:/MusicPlayer/resourcesimages.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

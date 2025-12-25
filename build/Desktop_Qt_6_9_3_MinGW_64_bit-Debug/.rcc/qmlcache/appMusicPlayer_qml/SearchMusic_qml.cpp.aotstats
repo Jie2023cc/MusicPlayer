@@ -1,0 +1,460 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "gotodown",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 441,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 8
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 20,
+                        "durationMicroseconds": 137,
+                        "errorMessage": "method download cannot be resolved.",
+                        "functionName": "onPlayurl",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 73,
+                        "errorMessage": "",
+                        "functionName": "onPlayurl",
+                        "line": 13
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 23
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 37,
+                        "durationMicroseconds": 279,
+                        "errorMessage": "",
+                        "functionName": "preferredHeight",
+                        "line": 27
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 80,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 32,
+                        "durationMicroseconds": 214,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 37,
+                        "durationMicroseconds": 228,
+                        "errorMessage": "",
+                        "functionName": "onAccepted",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 49,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 38,
+                        "durationMicroseconds": 144,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 146,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 78,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 29,
+                        "durationMicroseconds": 70,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 63
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 243,
+                        "errorMessage": "",
+                        "functionName": "scale",
+                        "line": 65
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 44,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 62
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 71,
+                        "durationMicroseconds": 113,
+                        "errorMessage": "",
+                        "functionName": "type",
+                        "line": 67
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 35,
+                        "durationMicroseconds": 124,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 70
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 38,
+                        "durationMicroseconds": 103,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 80
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 36,
+                        "durationMicroseconds": 243,
+                        "errorMessage": "",
+                        "functionName": "onClicked",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 78
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 37,
+                        "durationMicroseconds": 196,
+                        "errorMessage": "",
+                        "functionName": "preferredHeight",
+                        "line": 90
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 61,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 45,
+                        "durationMicroseconds": 122,
+                        "errorMessage": "",
+                        "functionName": "preferredHeight",
+                        "line": 97
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 51,
+                        "durationMicroseconds": 50,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 32,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot load property model from .",
+                        "functionName": "model",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 41,
+                        "durationMicroseconds": 91,
+                        "errorMessage": "",
+                        "functionName": "boundsBehavior",
+                        "line": 134
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 39,
+                        "durationMicroseconds": 57,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 130
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 36,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "Cannot access value for name listView",
+                        "functionName": "width",
+                        "line": 136
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 37,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name listView",
+                        "functionName": "height",
+                        "line": 137
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 47,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 44,
+                        "durationMicroseconds": 161,
+                        "errorMessage": "",
+                        "functionName": "scale",
+                        "line": 164
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 47,
+                        "durationMicroseconds": 328,
+                        "errorMessage": "Cannot access value for name title",
+                        "functionName": "text",
+                        "line": 158
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 62,
+                        "durationMicroseconds": 81,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 60,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 48,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "",
+                        "functionName": "elide",
+                        "line": 161
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 55,
+                        "durationMicroseconds": 106,
+                        "errorMessage": "",
+                        "functionName": "fontSizeMode",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 55,
+                        "durationMicroseconds": 51,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 156
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 87,
+                        "durationMicroseconds": 84,
+                        "errorMessage": "",
+                        "functionName": "type",
+                        "line": 166
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 54,
+                        "durationMicroseconds": 58,
+                        "errorMessage": "",
+                        "functionName": "cursorShape",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 52,
+                        "durationMicroseconds": 341,
+                        "errorMessage": "Cannot access value for name listView",
+                        "functionName": "onClicked",
+                        "line": 173
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 55,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 47,
+                        "durationMicroseconds": 180,
+                        "errorMessage": "Cannot access value for name artist",
+                        "functionName": "text",
+                        "line": 195
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 62,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "",
+                        "functionName": "horizontalAlignment",
+                        "line": 196
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 60,
+                        "durationMicroseconds": 65,
+                        "errorMessage": "",
+                        "functionName": "verticalAlignment",
+                        "line": 197
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 48,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "",
+                        "functionName": "elide",
+                        "line": 198
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 55,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "",
+                        "functionName": "fontSizeMode",
+                        "line": 199
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 55,
+                        "durationMicroseconds": 53,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 193
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 45,
+                        "durationMicroseconds": 35,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 205
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 60,
+                        "durationMicroseconds": 38,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 204
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 51,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 208
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 49,
+                        "durationMicroseconds": 222,
+                        "errorMessage": "Cannot access value for name artwork",
+                        "functionName": "source",
+                        "line": 209
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 55,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 207
+                    }
+                ],
+                "filePath": "F:/MusicPlayer/qml/SearchMusic.qml"
+            }
+        ],
+        "moduleId": "MusicPlayer(appMusicPlayer)"
+    }
+]
